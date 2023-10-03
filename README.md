@@ -29,7 +29,7 @@
 ## Team Member Akamjot Singh
 ### Hobbies
  - Playing vedio games.
-    ![vedio games](images/valorant 2.jpg)
+    ![vedio games](images/valorant%202.jpg)
  - Playing Football.
     ![Football](images/football.jpg)
 ### Background
