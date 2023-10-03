@@ -1,4 +1,4 @@
-# Merciless
+# Team Merciless
 "Success is not final, failure is not fatal: It is the courage to continue that counts."
 
 
@@ -29,7 +29,7 @@
 ## Team Member Akamjot Singh
 ### Hobbies
  - Playing vedio games.
-    ![vedio games](images/valorant.png)
+    ![vedio games](images/valorant 2.jpg)
  - Playing Football.
     ![Football](images/football.jpg)
 ### Background
